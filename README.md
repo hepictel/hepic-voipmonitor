@@ -1,3 +1,7 @@
+### This project has been replaced by [HEPsub](https://github.com/sipcapture/hepsub-voipmonitor)
+
+--------------
+
 # HEPIC Pub-Sub API for Voipmonitor Sniffer RTP + CDRs
 
 This application implements a sample HEP Pub-Sub API Interface on top of the Voipmonitor OSS Sniffer, allowing HEPIC UI (and soon HOMER) to interact with CDRs and RTP-PCAP-Audio recording remotely.
